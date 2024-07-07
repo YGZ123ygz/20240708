@@ -1,0 +1,28 @@
+h2{
+    color: hotpink;
+    font-size: 200%;
+ }
+ h3{
+    color: rgb(149, 36, 225);
+    font-size: 200%;
+ }
+ *{
+    padding: 2mm;
+    margin: 1mm;
+ }
+ header,footer,section{
+    background-color: rgba(78, 42, 25, 0.413);
+    border: 1.5mm rgba(220, 92, 0, 0.672) solid;
+
+ }
+ header{
+    border: 1mm rgba(162, 41, 30, 0.68) solid;
+    padding: 2mm; color: blanchedalmond ;
+ }
+ header a{
+    background-color: rgba(12, 154, 12, 0.644);
+    text-decoration: none;
+ }
+ header a:hover{
+    text-underline-position: below;
+ }
